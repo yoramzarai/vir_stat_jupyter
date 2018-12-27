@@ -1,0 +1,300 @@
+1605721:
+	eql={'CCC'} 
+	gc={'CCC'}
+	at={'ATT'}
+	proc={'GAA', 'GCT', 'ATT', 'CAC', 'CTG', 'AGC', 'GGA', 'GTT', 'TGA', 'TTC', 'TCC'}
+1273750:
+	eql={'AAA'} 
+	gc={'CCG', 'CGC'}
+	at={'AAA'}
+	proc={'CTC', 'TTG', 'CAT', 'CAA', 'CGC', 'GAC', 'GAG', 'GTC', 'CTA', 'CCG', 'AGA'}
+1079999:
+	eql={'AAA', 'TTT'} 
+	gc={'GGC', 'GCC'}
+	at={'AAA', 'AAT', 'TTT'}
+	proc={'CTC', 'GCT', 'TGT', 'GCC', 'ACA', 'GGC', 'GTC', 'AAT'}
+1141526:
+	eql={'AAA', 'TTT'} 
+	gc=set()
+	at={'AAA', 'TTT'}
+	proc={'CTC', 'GAT', 'CCA', 'CAC', 'GAG', 'CTA', 'GGA', 'GTG'}
+268746:
+	eql={'AAA', 'GGG', 'TTT'} 
+	gc={'GGG', 'GCC'}
+	at={'AAA', 'AAT', 'TTT'}
+	proc={'GCT', 'TGT', 'GCC', 'ACA', 'GTC', 'AAT'}
+1029988:
+	eql={'TTT'} 
+	gc={'GCC'}
+	at={'TTT'}
+	proc={'TTG', 'CAA', 'GAC', 'GAG', 'TAG', 'GCC', 'GGA', 'ACA'}
+1195085:
+	eql={'TTT'} 
+	gc=set()
+	at={'TTT'}
+	proc={'TTG', 'CAA', 'GAC', 'GAG', 'TAG', 'TGT', 'GGA', 'ACA'}
+1283071:
+	eql={'AAA', 'TTT'} 
+	gc={'GGC'}
+	at={'AAA', 'TTT'}
+	proc={'AGG', 'GAC', 'GAG', 'TGT', 'GGA', 'ACA', 'GGC'}
+1604356:
+	eql={'AAA', 'TTT'} 
+	gc={'GCG', 'CGC'}
+	at={'AAA', 'TTT'}
+	proc={'TTG', 'GCG', 'CGC', 'GAG', 'TAG', 'TGT', 'ACA'}
+347325:
+	eql={'AAA', 'TTT'} 
+	gc=set()
+	at={'AAA', 'TTT'}
+	proc={'CTC', 'GAT', 'CAC', 'GAG', 'TAG', 'CTA', 'GTG'}
+1391223:
+	eql={'AAA', 'TTT'} 
+	gc={'GCG', 'CGC'}
+	at={'AAA', 'TTT'}
+	proc={'TTG', 'GCG', 'CGC', 'GAG', 'TAG', 'TGT', 'ACA'}
+331278:
+	eql={'TTT'} 
+	gc={'CGC'}
+	at={'TTT'}
+	proc={'CGC', 'GAC', 'CAC', 'GAG', 'CGA', 'TGT', 'ACA'}
+1150991:
+	eql={'AAA'} 
+	gc={'CGC'}
+	at={'AAA'}
+	proc={'CTC', 'CGC', 'GAC', 'CAC', 'GAG', 'TCT', 'GTC'}
+445683:
+	eql=set() 
+	gc={'GGC', 'GCC'}
+	at={'AAT'}
+	proc={'CTC', 'GCT', 'GAG', 'TGT', 'GCC', 'ACA', 'GGC', 'AAT'}
+1493510:
+	eql={'AAA', 'TTT'} 
+	gc={'GGC', 'GCC'}
+	at={'AAA', 'AAT', 'TTT'}
+	proc={'CTC', 'GCT', 'TCA', 'GCC', 'GGC', 'AAT'}
+1414738:
+	eql={'AAA', 'TTT'} 
+	gc={'GCG', 'CGC'}
+	at={'AAA', 'TTT'}
+	proc={'GCG', 'CGC', 'GAG', 'TAG', 'TGT', 'ACA'}
+444862:
+	eql={'AAA', 'TTT'} 
+	gc={'GGC', 'GCC'}
+	at={'AAA', 'AAT', 'TTT'}
+	proc={'GCT', 'GAC', 'TGT', 'GCC', 'GGC', 'AAT'}
+869662:
+	eql={'AAA'} 
+	gc={'GGC', 'GCC'}
+	at={'AAA', 'AAT'}
+	proc={'CTC', 'GCT', 'TGT', 'GCC', 'GGA', 'GGC', 'AAT'}
+1273747:
+	eql={'CCC'} 
+	gc={'CCC'}
+	at=set()
+	proc={'TTG', 'AAG', 'CAA', 'CTA', 'ACA', 'AGA', 'TGA'}
+1090134:
+	eql={'TTT'} 
+	gc=set()
+	at={'TTT'}
+	proc={'CTC', 'CAA', 'GAC', 'AGT', 'GAG', 'TCA', 'TGT'}
+1273750:
+	eql={'GGGG'} 
+	gc={'GGGG', 'GCGC', 'CGCG'}
+	at=set()
+	proc={'GACG', 'ACTC', 'GTAC', 'GAGT', 'GACC', 'GAGC', 'CTCA', 'CAAG', 'GAGA', 'CGCG', 'CTCC', 'CATG', 'GGAG', 'GTCA', 'GTCC', 'GGTC', 'GCTC', 'CAAC', 'GCAA', 'GCGC', 'AGCT', 'GGAC', 'AGAG'}
+1605721:
+	eql={'CCCC', 'GGGG'} 
+	gc={'CCCC', 'GGGG'}
+	at=set()
+	proc={'AAGC', 'ACGT', 'GCTT', 'TCCG', 'GTTA', 'AGCC', 'CTCC', 'AACG', 'GGAG', 'GGAA', 'GGGA', 'CGGA', 'GAAG', 'TTCG', 'CTTA', 'TCAG', 'CTGA', 'AGCT', 'CGTT', 'CTTC', 'GTTC'}
+929832:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GCCG', 'GGCC', 'CGGC', 'CCGG', 'GCGC', 'CGCG'}
+	at={'AAAA', 'TTTT', 'AAAT'}
+	proc={'AGGC', 'GCCG', 'TCAA', 'GGCC', 'CGGC', 'CCGG', 'AGCC', 'GCGC', 'CGCG', 'TTCA', 'AGCT', 'GGCT', 'AAAT'}
+445700:
+	eql={'TTTT'} 
+	gc={'GGCC', 'GCGC', 'CCGG', 'CGGC'}
+	at={'TTTT', 'AAAT'}
+	proc={'GCTC', 'GTAC', 'TTTC', 'GGCC', 'CGGC', 'CCGG', 'GCGC', 'AGCC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+444878:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GCCC', 'GGCC', 'CCGG'}
+	at={'AAAA', 'TTTT', 'AAAT'}
+	proc={'GCCC', 'GTAC', 'ACGT', 'GGCC', 'GCTA', 'CCGG', 'AGCC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+1273748:
+	eql={'CCCC', 'GGGG'} 
+	gc={'CCCC', 'GGCC', 'GGGG'}
+	at=set()
+	proc={'CCAA', 'GGCC', 'CATT', 'CTAG', 'ATGT', 'GATC', 'AGCC', 'AGGG', 'AGCT', 'CTTG', 'AATG', 'GGCT'}
+889956:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'GCGC', 'CCGG', 'GCCG'}
+	at={'AAAA', 'TTTT', 'AAAT'}
+	proc={'GCCG', 'GTAC', 'TTTC', 'GGCC', 'CCGG', 'AGCC', 'GCGC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+1283076:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC'}
+	at={'AAAA', 'AATT', 'TTTT'}
+	proc={'GGCT', 'TCGG', 'GGCC', 'ACGT', 'AATT', 'GCTA', 'GATC', 'AGCC', 'AGCT', 'TCGA', 'TGGA', 'CCGA'}
+268746:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'GCGC', 'CCGG', 'CGCG'}
+	at={'AAAA', 'AATT', 'TTTT'}
+	proc={'AGTC', 'GTAC', 'GGCC', 'AATT', 'CCGG', 'AGCC', 'GCGC', 'CGCG', 'AGCT', 'TCGA', 'CATG', 'GGCT'}
+445696:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GCCG', 'GGCC', 'CGGC', 'CCGG', 'GCGC'}
+	at={'AAAA', 'TTTT'}
+	proc={'GCTC', 'GCCG', 'TTTC', 'GGCC', 'CGGC', 'CCGG', 'AGCC', 'GCGC', 'AGCT', 'TCGA', 'GGCT'}
+445686:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'CCGG', 'CGCG'}
+	at={'AAAA', 'AATT', 'TTTT', 'AAAT'}
+	proc={'GGCT', 'GTAC', 'GGCC', 'AATT', 'GCTA', 'CCGG', 'AGCC', 'CGCG', 'GCTT', 'GTCC', 'AAAT'}
+754042:
+	eql={'TTTT'} 
+	gc={'GGCC', 'GGCG', 'CGCG'}
+	at={'TTTT'}
+	proc={'GTAC', 'ACGT', 'GGCC', 'GGCG', 'GCTA', 'CGCT', 'AGCC', 'AGCG', 'CGCG', 'GATC', 'AGCT', 'GGCT'}
+458639:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GCGC', 'CGCG'}
+	at={'AAAA', 'AATT', 'TTTT', 'AAAT'}
+	proc={'GCCA', 'CCCA', 'TTTC', 'AATT', 'GATC', 'CCAG', 'TCAG', 'GCGC', 'GTCT', 'CGCG', 'AAAT'}
+1136534:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'CGCG'}
+	at={'AAAA', 'TTTT'}
+	proc={'GGTC', 'GGCC', 'GAGG', 'CTGG', 'GATC', 'CCAG', 'TCAG', 'CGCG', 'TCGC', 'TCGA'}
+445685:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'CCGG'}
+	at={'AAAA', 'TTTT', 'AAAT'}
+	proc={'GTAC', 'GGCC', 'GCTA', 'CCGG', 'AGCC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+1029988:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GCGC', 'CGCG'}
+	at={'AAAA', 'AATT', 'TTTT'}
+	proc={'GCTC', 'CGAG', 'CATA', 'GAGG', 'AATT', 'GATC', 'GCGC', 'CGCG', 'GGAG', 'TATG'}
+1340810:
+	eql={'TTTT'} 
+	gc={'GGCC', 'CCGG', 'CGGC'}
+	at={'TTTT', 'AAAT'}
+	proc={'GCTC', 'GTAC', 'GGCC', 'CGGC', 'CCGG', 'AGCC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+1161927:
+	eql={'CCCC', 'GGGG'} 
+	gc={'CCCC', 'GGGG'}
+	at={'TATA'}
+	proc={'TATA', 'ACAT', 'CCCT', 'CCCA', 'GAGG', 'ATGT', 'TCTC', 'CATG', 'GGAG', 'CCAT'}
+444862:
+	eql={'AAAA', 'TTTT'} 
+	gc={'GGCC', 'GCGC', 'CCGG', 'GCCG'}
+	at={'AAAA', 'TTTT', 'AAAT'}
+	proc={'GCCG', 'GTAC', 'GGCC', 'CCGG', 'AGCC', 'GCGC', 'AGCT', 'GCTT', 'GGCT', 'AAAT'}
+555387:
+	eql={'TTTT'} 
+	gc={'GGCC', 'CCGG'}
+	at={'TTTT', 'AAAT'}
+	proc={'GCTC', 'GTAC', 'GGCC', 'CCGG', 'AGCC', 'AGCT', 'TCGA', 'GCTT', 'GGCT', 'AAAT'}
+1605721:
+	eql={'GGGGG', 'CCCCC'} 
+	gc={'CCCCC', 'GCCCC', 'CGGGG', 'CCCCG', 'GGGGG', 'GGGGC', 'CCCGC'}
+	at=set()
+	proc={'TTCGG', 'TCAGT', 'GTTAC', 'GAAGT', 'AGCTT', 'TCTGA', 'TCCCC', 'ACGAA', 'AACGC', 'AGCTG', 'GAACG', 'CTTAC', 'GCTTA', 'CGGAA', 'GGAGT', 'TCCGC', 'CTTCA', 'CGAAG', 'GCTTG', 'CTCAG', 'CCCCG', 'GCGTT', 'GTTAA', 'GAGCT', 'CCCGC', 'AGCTA', 'CAGCT', 'CCCAG', 'TGTTA', 'GCCCC', 'GCTTC', 'CTTAT', 'CGGGG', 'ACGTT', 'TCAGC', 'ACTCC', 'TCTTC', 'AAACG', 'CTTAA', 'AAGCT', 'TTCTG', 'GGAAG', 'CTTCT', 'AGTTC', 'TTACT', 'AACGG', 'GGACT', 'CCTTA', 'AACGA', 'CGTTA', 'CGGAG', 'GAAGC', 'GGCTT', 'GGGGC', 'GAAAC', 'CCGGA', 'GGGGA', 'CTCCC', 'CCTGA', 'CGTTT', 'AACGT', 'GCGGA', 'TTCGT', 'GTTCG', 'GGTTA', 'TTCGC', 'GGAAC', 'GGAAT', 'GGGAA', 'TCGGA', 'CTCCG', 'GCTCC', 'ACTTC', 'CCTTC', 'GCTGA', 'GAAGG', 'ACTTA', 'AGCTC', 'CCCCT', 'CTTCC', 'CGTTC', 'AGCCC', 'GTTAT', 'ACCCC', 'ACGGA', 'TCGTT', 'GTCAG', 'GCGAA', 'CTTCG', 'GTTCT'}
+382359:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'CCGGG', 'GGGCC'}
+	at={'AAAAA', 'TTTTT', 'AAAAT'}
+	proc={'AGTTC', 'CCGGG', 'AGCTT', 'TGTTC', 'GGCCT', 'GTTCC', 'GTACG', 'GGCTT', 'GTACA', 'GGCTG', 'GTACT', 'CCGGA', 'GCTAC', 'GAACA', 'GAACG', 'AGAAC', 'GGTTC', 'GGGCT', 'GGGCC', 'TTCGA', 'GTTCG', 'AGCTA', 'TGTAC', 'GGAAC', 'TGGCT', 'ACCGG', 'GTTCA', 'GGCTC', 'AGGCT', 'AGTAC', 'AAAAT', 'GGCTA', 'AGGCC', 'GTACC', 'AAGCT', 'GGTAC', 'AAGCC', 'GAACT', 'GTTCT'}
+1079998:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'GGGCC', 'GGCCC'}
+	at={'AAAAA', 'TTTTT'}
+	proc={'AGTTC', 'AGCTT', 'TGTTC', 'GTTCC', 'GTACG', 'GGCTT', 'GTACA', 'GGCTG', 'GTACT', 'GAACA', 'AGCCA', 'AGAAC', 'GGTTC', 'GGGCT', 'GGGCC', 'TTCGA', 'GAGCT', 'GTTCG', 'AGCTA', 'TGTAC', 'GGAAC', 'TGGCT', 'GTTCA', 'GGCCC', 'GGCTC', 'AGGCT', 'AGTAC', 'AGCCC', 'GGCTA', 'AGGCC', 'GTACC', 'AAGCT', 'GGTAC', 'AAGCC', 'GAACT', 'GTTCT'}
+458639:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'CGCGC', 'CGCGG', 'CCGCG', 'GCGCG'}
+	at={'AAAAT', 'AATTT', 'ATTTT', 'TTTTT', 'AAATT', 'TTTTA', 'AAAAA'}
+	proc={'TTTTC', 'GTTTT', 'AATTT', 'CCTCA', 'AAATG', 'GAAAA', 'GATCG', 'AGATC', 'TTTTA', 'TCTGG', 'GCGCG', 'ACGCG', 'TCGCG', 'CCTGG', 'TCCAG', 'CTGTG', 'CTCAG', 'CGCGT', 'CGCGA', 'CTTTT', 'CGCGG', 'GATCA', 'GCCAG', 'CCAGA', 'GAATT', 'CGCGC', 'GGACC', 'GATCT', 'CGATC', 'GGTCC', 'AAAAT', 'CCGCG', 'ATTTT', 'AAATT', 'GGATC', 'AATTC'}
+1273750:
+	eql={'AAAAA', 'GGGGG'} 
+	gc={'GGCGC', 'CCGCG', 'GGGGG', 'CGCGC', 'GCGCG'}
+	at={'AAAAA'}
+	proc={'GGACT', 'GGTCA', 'TGCAA', 'CGGAG', 'CCGTC', 'GGAGC', 'GCGCG', 'GCTCG', 'AATGG', 'CCATG', 'GGCGC', 'TCGCG', 'GGGAG', 'GGAGT', 'CTGCG', 'CGCGA', 'CAGCT', 'GAGCC', 'CATGG', 'GCGCT', 'GCGCA', 'GGAGG', 'CGCGC', 'GGACC', 'AGCGC', 'GGCTC', 'GCAAG', 'AGGTC', 'GAATG', 'CCGCG', 'GCATG', 'GGTAC', 'GCGAG', 'GACGG', 'GGACG'}
+445683:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'CCGGG', 'GGGCC'}
+	at={'AAAAA', 'TTTTT', 'ATTAA', 'TTTAA'}
+	proc={'CCGGG', 'AGCTT', 'GGCCT', 'CGGCT', 'GGCTT', 'GGCTG', 'CCGGA', 'ATTAA', 'AGCCA', 'GCCTC', 'TTTAA', 'GAAAT', 'GGGCT', 'TCGAC', 'GCTTG', 'GGGCC', 'TCGAG', 'GTTAA', 'TTCGA', 'GAGCT', 'AGCTA', 'CAGCT', 'TCGAA', 'GGCCA', 'TCCGG', 'GCTTC', 'TGGCT', 'GAATT', 'ACCGG', 'GGCTC', 'AGGCT', 'GGCTA', 'CTTAA', 'AGGCC', 'AAGCT'}
+754037:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'CCGGG', 'GGGCC', 'GGCCC'}
+	at={'AAAAT', 'ATTTT', 'TTTTT', 'TTTTA', 'AAAAA'}
+	proc={'TTTTC', 'CCGGG', 'AGCTT', 'GGCCT', 'GTACG', 'TTTTA', 'GGCTT', 'GGCTG', 'GCTCT', 'CCGGA', 'TTTCA', 'AGCCA', 'GCTTA', 'GGGCT', 'ACCTC', 'CTCAG', 'GGGCC', 'GAGCT', 'CTTTT', 'TCCGG', 'TGGCT', 'ACCGG', 'GGCTC', 'GGCCC', 'AGCTC', 'AGGCT', 'AGTAC', 'AAAAT', 'GGCTA', 'ATTTT', 'AGGCC', 'GCTCA', 'AAGCT', 'AAGCC'}
+555387:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'GGGCC', 'GGCCC'}
+	at={'AAAAA', 'AAAAT', 'TTTTT', 'TTTTA'}
+	proc={'TTTTC', 'AGCTT', 'GTACG', 'TTTTA', 'GGCTT', 'GGCTG', 'CAGCC', 'GTACT', 'GCTTT', 'TTTCA', 'AGCCA', 'GCTTA', 'GGGCT', 'GGGCC', 'GAGCT', 'CAGCT', 'TCGAA', 'CTCGA', 'CTTTT', 'GACTC', 'TGGCT', 'GGCCC', 'AGCTC', 'AGGCT', 'AGTAC', 'AGCCC', 'GGCTA', 'AAAAT', 'AGGCC', 'GTACC', 'ACGTC', 'AAGCT', 'AAGCC'}
+445696:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAA', 'TTTTT', 'ATTTT', 'AATTT'}
+	proc={'TTTTC', 'AATTT', 'GAAAA', 'AGCTT', 'GGCTT', 'GGCTG', 'CAGCC', 'TTTCA', 'AGCCA', 'GGGCT', 'ATTTC', 'GAGCT', 'AGCTA', 'CAGCT', 'TTTTG', 'TCGAA', 'GCTGG', 'CTTTT', 'GCGCA', 'GAGGC', 'AATTG', 'CCAGC', 'AGCGC', 'GGCTC', 'AGCTC', 'AGGCT', 'AGCCC', 'GGCTA', 'ATTTT', 'AGGCC', 'AAGCT', 'AAGCC', 'AATTC'}
+445700:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAA', 'TTTTT', 'ATTTT', 'TTTTA'}
+	proc={'AGCTT', 'TGCGC', 'GTACG', 'TTTTA', 'GTACA', 'GGCTT', 'GTACT', 'TTTCA', 'GAAAT', 'GGGCT', 'GCTTG', 'AGCTA', 'AGCCT', 'CAGCT', 'TGTAC', 'GCTGG', 'GCGCA', 'AATTG', 'TCGAT', 'TGGCT', 'CCAGC', 'AGCGC', 'AGCTC', 'AGGCT', 'AGTAC', 'AGCCC', 'GGCTA', 'ATTTT', 'AGGCC', 'GTACC', 'AAGCT', 'GGTAC', 'AAGCC'}
+889956:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAA', 'TTTTT', 'ATTTT'}
+	proc={'AGCTT', 'GTACG', 'GGCTT', 'GTACA', 'CAGCC', 'GTACT', 'TTTCA', 'AGCCA', 'GAAAT', 'GGGCT', 'AGCCT', 'TCGAA', 'TGTAC', 'GCTGG', 'GCGCA', 'AATTG', 'TGGCT', 'CCAGC', 'AGCGC', 'GGCTC', 'AGCTC', 'AGGCT', 'AGTAC', 'AGCCC', 'GGCTA', 'ATTTT', 'AGGCC', 'GTACC', 'AAGCT', 'GGTAC', 'AATTC'}
+444878:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAA', 'TTTTT', 'ATTTT', 'TTTTA'}
+	proc={'TTTTC', 'GTTTT', 'AGCTT', 'GGCCT', 'GCCCA', 'TTTTA', 'GGCTT', 'GGCTG', 'GCTTT', 'AGCCA', 'GGGCT', 'TCGAC', 'TACGT', 'TTCGA', 'AGCTA', 'CAGCT', 'GAGCC', 'AAAAG', 'TCCGG', 'TGGCT', 'ACGTG', 'GGCTC', 'AGCTC', 'AGGCT', 'GGCTA', 'ATTTT', 'AGGCC', 'GTACC', 'AAGCT', 'AAGCC'}
+1493511:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'GGGCC', 'GGCCC'}
+	at={'AAAAT', 'ATTTA', 'AATTT', 'ATTTT', 'TTTTT', 'TTTTA', 'AAATT', 'AAAAA', 'AATTA'}
+	proc={'TTTTC', 'AATTT', 'ACATT', 'GAAAA', 'ACTGT', 'GGCCT', 'GTACG', 'TTTTA', 'GTACA', 'ATTTA', 'CATTT', 'TTTAC', 'GTGCA', 'GGGCC', 'AAAAG', 'TGTAC', 'CAAAA', 'CTTTT', 'GAATT', 'GGCCC', 'AATTA', 'CGTAC', 'AGTAC', 'AAAAT', 'ATTTT', 'AGGCC', 'GTACC', 'AAGCT', 'GGTAC', 'AAATT'}
+536444:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAA', 'TTTTT', 'AAATT', 'AATTT'}
+	proc={'CAGCT', 'TTTTC', 'CAATT', 'AATTT', 'GCTGG', 'AGCTT', 'GGCCT', 'AATTG', 'GGCTT', 'TGGCT', 'CCAGC', 'GAATT', 'GGCTG', 'GGCTC', 'TTTCA', 'CCACA', 'AGCCA', 'AGCTC', 'AGGCT', 'GCTTA', 'GGCTA', 'GGGCT', 'AGGCC', 'GTACC', 'AAGCT', 'AAATT', 'GAGCT', 'AGCTA', 'AATTC'}
+1493513:
+	eql={'TTTTT'} 
+	gc={'GGGCC', 'GGCCC'}
+	at={'TTTTT', 'TTTTA'}
+	proc={'TTTTG', 'TCGAA', 'TGTAC', 'AGCTT', 'GGCCT', 'GTACG', 'TTTTA', 'GGCTT', 'TGGCT', 'GCTTT', 'GGCCC', 'TTTCA', 'AGCCA', 'AGCTC', 'AGGCT', 'AGTAC', 'AGCCC', 'GCTTA', 'GGCTA', 'GGGCT', 'AGGCC', 'GCTCA', 'GTACC', 'GGGCC', 'AAGCT', 'AAGCC', 'TTCGA', 'GAGCT', 'AGCTA'}
+1493509:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'TTTAA', 'ATTTT', 'TTTTT', 'TTTTA', 'AAAAA'}
+	proc={'TTTTG', 'GTTTT', 'TCGAA', 'CTCGA', 'CTTTT', 'AGCTT', 'GGCCT', 'TCGAT', 'TTTTA', 'GGCTT', 'TGGCT', 'GGCTG', 'CAGCC', 'ATCGA', 'AGCTC', 'AGCCA', 'AGGCT', 'TTTAA', 'GAAAT', 'GGGCT', 'GGCTA', 'ATTTT', 'TCGAC', 'TCGAG', 'AAGCT', 'TTCGA', 'GTCGA', 'GAGCT'}
+869662:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'GGGCC'}
+	at={'AAAAT', 'AATTT', 'TTTTT', 'AAATT', 'AAAAA', 'AATTA'}
+	proc={'CAGCT', 'TTTTC', 'CAATT', 'AATTT', 'AGCTT', 'GGCCT', 'AATTG', 'GGCTT', 'TGGCT', 'GAATT', 'GGCTG', 'GCTAC', 'GGCTC', 'AATTA', 'AGCTC', 'AGGCT', 'AAAAT', 'GGCTA', 'GGGCT', 'AGGCC', 'GCTTG', 'GTACC', 'GGGCC', 'AAGCT', 'AAATT', 'GAGCT', 'AGCTA', 'AATTC'}
+869724:
+	eql={'AAAAA', 'TTTTT'} 
+	gc={'CCGGG', 'GGGCC', 'GGCCC'}
+	at={'AAAAA', 'TTTTT', 'ATTTT'}
+	proc={'GATCC', 'CCGGG', 'AGCTT', 'GATCA', 'GATCG', 'GGCCT', 'AGATC', 'GGCTT', 'TGGCT', 'GCTGT', 'ACCGG', 'GGCTG', 'GATCT', 'GCTAC', 'GGCCC', 'TTTCA', 'AGGCT', 'CGATC', 'GGCTA', 'GGGCT', 'ATTTT', 'AGGCC', 'GGGCC', 'AAGCT', 'GAGCT', 'GGATC', 'AGCTA'}
+1283076:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAT', 'AATTT', 'ATTTT', 'TTTTT', 'AAATT', 'AAAAA'}
+	proc={'CACTG', 'GATTC', 'CATCG', 'TCGAA', 'AATTT', 'GGCCA', 'AGCTT', 'TTGGA', 'GATCA', 'GAATC', 'ACCGA', 'AGATC', 'TCGAT', 'ACGTT', 'GATCT', 'ATCGA', 'AAAAT', 'CAGTG', 'TGGAG', 'GAGTC', 'ATTTT', 'AACGT', 'TACGT', 'AAGCT', 'TTCGA', 'AAATT', 'AGCTA'}
+1079999:
+	eql={'AAAAA', 'TTTTT'} 
+	gc=set()
+	at={'AAAAT', 'ATTTT', 'TTTTT', 'AAATT', 'AAAAA'}
+	proc={'CAGCT', 'TTTTC', 'CAATT', 'AGCTA', 'GCTGG', 'AGCTT', 'AATTG', 'GGCTT', 'TGGCT', 'ACGTG', 'GGCTG', 'ACCGG', 'GGCTC', 'TTTCA', 'AGCCA', 'AGCTC', 'AGGCT', 'AAAAT', 'GGCTA', 'ATTTT', 'AGGCC', 'AAGCT', 'AAATT', 'GAGCT', 'AGCCT', 'AATTC'}

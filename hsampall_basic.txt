@@ -1,0 +1,27 @@
+m3 Ensembl:Erinaceus europaeus (2 corresponding viruses):
+	intersect={'TTG', 'CAA'}
+	in at least 90%={'TTG', 'CAA'}
+m3 Ensembl:Mustela putorius furo (2 corresponding viruses):
+	intersect={'TTG', 'TAG'}
+	in at least 90%={'TTG', 'TAG'}
+m3 Ensembl_Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect={'CAA', 'GAG'}
+	in at least 90%={'GGG', 'CTT', 'GAC', 'CTC', 'CCC', 'AAT', 'TAG', 'CAA', 'GAG'}
+m4 Ensembl:Erinaceus europaeus (2 corresponding viruses):
+	intersect={'GATC'}
+	in at least 90%={'GATC'}
+m4 Ensembl:Mustela putorius furo (2 corresponding viruses):
+	intersect=set()
+	in at least 90%=set()
+m4 Ensembl_Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect=set()
+	in at least 90%={'CAAG', 'GAGG', 'CGAG', 'GGAG', 'GAGA', 'AATT'}
+m5 Ensembl:Erinaceus europaeus (2 corresponding viruses):
+	intersect=set()
+	in at least 90%=set()
+m5 Ensembl:Mustela putorius furo (2 corresponding viruses):
+	intersect={'CCCCC'}
+	in at least 90%={'CCCCC'}
+m5 Ensembl_Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect=set()
+	in at least 90%={'TTGGG', 'GGGTC', 'GGCTC', 'CGAGA', 'TCCAA', 'TTGGA', 'TCGAG', 'GGGGT'}

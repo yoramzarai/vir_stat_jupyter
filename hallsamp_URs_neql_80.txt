@@ -1,0 +1,378 @@
+m3:Vertebrate:Bos taurus (84 corresponding viruses):
+	intersect=set()
+	@least 80%={'CAA', 'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Gallus gallus (47 corresponding viruses):
+	intersect=set()
+	@least 80%={'CAA', 'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Meleagris gallopavo (18 corresponding viruses):
+	intersect=set()
+	@least 80%={'ACT', 'CAA', 'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Ovis aries (28 corresponding viruses):
+	intersect={'TTG'}
+	@least 80%={'CAA', 'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect={'GAG', 'CAA'}
+	@least 80%={'CGA', 'AAT', 'GGA', 'TAG', 'GAG', 'CCC', 'CAA', 'CTC', 'CTT', 'GAC', 'GGG'}
+	eql={'CCC', 'GGG'}
+	gc={'CCC', 'GGG'}
+	at={'AAT'}
+m3:Vertebrate:Sus scrofa (79 corresponding viruses):
+	intersect=set()
+	@least 80%={'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Drosophila melanogaster (6 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Homo sapiens (339 corresponding viruses):
+	intersect=set()
+	@least 80%={'TTG'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Vertebrate:Mus musculus (43 corresponding viruses):
+	intersect=set()
+	@least 80%={'CCC', 'CAA', 'TTG'}
+	eql={'CCC'}
+	gc={'CCC'}
+	at=set()
+m3:Vertebrate:Saccharomyces cerevisiae (7 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m3:Bacteria:Bacillus cereus (17 corresponding viruses):
+	intersect={'GGT', 'AAT', 'GTC', 'GTT', 'GAC'}
+	@least 80%={'GGT', 'AAT', 'GTC', 'GTT', 'GAC'}
+	eql=set()
+	gc=set()
+	at={'AAT'}
+m3:Bacteria:Enterococcus faecalis (14 corresponding viruses):
+	intersect={'GGT', 'CCC', 'GAG'}
+	@least 80%={'GGT', 'GAG', 'GCA', 'CCC', 'TGC'}
+	eql={'CCC'}
+	gc={'CCC'}
+	at=set()
+m3:Bacteria:Mycobacterium abscessus (36 corresponding viruses):
+	intersect={'CCC', 'TTA', 'GGG'}
+	@least 80%={'CCC', 'TTA', 'GGG'}
+	eql={'CCC', 'GGG'}
+	gc={'CCC', 'GGG'}
+	at={'TTA'}
+m3:Bacteria:Propionibacterium acnes (53 corresponding viruses):
+	intersect={'ACA', 'TCT'}
+	@least 80%={'ACA', 'TCT', 'AGA'}
+	eql=set()
+	gc=set()
+	at=set()
+m3:Bacteria:Mycobacterium smegmatis (35 corresponding viruses):
+	intersect={'GAC', 'GGG', 'CCC', 'AAA'}
+	@least 80%={'CCC', 'AAA', 'GGG', 'GAC'}
+	eql={'GGG', 'CCC', 'AAA'}
+	gc={'CCC', 'GGG'}
+	at={'AAA'}
+m3:Bacteria:Streptococcus pneumoniae (9 corresponding viruses):
+	intersect={'GCA', 'CCC', 'GGG'}
+	@least 80%={'CGA', 'GCA', 'CCC', 'TGT', 'GGG'}
+	eql={'CCC', 'GGG'}
+	gc={'CCC', 'GGG'}
+	at=set()
+m3:Bacteria:Vibrio cholerae (18 corresponding viruses):
+	intersect={'GGA'}
+	@least 80%={'GAC', 'GGG', 'AAT', 'GGA'}
+	eql={'GGG'}
+	gc={'GGG'}
+	at={'AAT'}
+m3:Bacteria:Streptococcus thermophilus (13 corresponding viruses):
+	intersect={'CAT', 'GAG', 'GCA', 'CCC', 'GGG'}
+	@least 80%={'CAT', 'GAG', 'GCA', 'CCC', 'GGG'}
+	eql={'CCC', 'GGG'}
+	gc={'CCC', 'GGG'}
+	at=set()
+m3:Metazoa:Aedes aegypti (18 corresponding viruses):
+	intersect={'GGG'}
+	@least 80%={'GGG'}
+	eql={'GGG'}
+	gc={'GGG'}
+	at=set()
+m3:Plants:Arabidopsis thaliana (5 corresponding viruses):
+	intersect={'GAC', 'CAG'}
+	@least 80%={'CAG', 'AAA', 'CTG', 'GAC', 'GGG'}
+	eql={'AAA', 'GGG'}
+	gc={'GGG'}
+	at={'AAA'}
+m3:Plants:Solanum lycopersicum (154 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Bos taurus (84 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Gallus gallus (47 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Meleagris gallopavo (18 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Ovis aries (28 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect=set()
+	@least 80%={'GTGT', 'CAAG', 'CCCC', 'GAGG', 'AGAC', 'GGAG', 'CTAG', 'CGAG', 'GAGA', 'AATT'}
+	eql={'CCCC'}
+	gc={'CCCC'}
+	at={'AATT'}
+m4:Vertebrate:Sus scrofa (79 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Drosophila melanogaster (6 corresponding viruses):
+	intersect={'CCCC'}
+	@least 80%={'CCCC'}
+	eql={'CCCC'}
+	gc={'CCCC'}
+	at=set()
+m4:Vertebrate:Homo sapiens (339 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Mus musculus (43 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Vertebrate:Saccharomyces cerevisiae (7 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m4:Bacteria:Bacillus cereus (17 corresponding viruses):
+	intersect={'AGTC', 'GATC', 'GGTC'}
+	@least 80%={'AGTC', 'GGTC', 'GTCT', 'GGTT', 'GATC'}
+	eql=set()
+	gc=set()
+	at=set()
+m4:Bacteria:Enterococcus faecalis (14 corresponding viruses):
+	intersect={'CGCG', 'GATC'}
+	@least 80%={'CGCG', 'AGGT', 'GATC', 'GGAG'}
+	eql=set()
+	gc={'CGCG'}
+	at=set()
+m4:Bacteria:Mycobacterium abscessus (36 corresponding viruses):
+	intersect={'CCCC', 'GGGG'}
+	@least 80%={'CCCC', 'CTTA', 'CTCT', 'GGGG'}
+	eql={'CCCC', 'GGGG'}
+	gc={'CCCC', 'GGGG'}
+	at=set()
+m4:Bacteria:Propionibacterium acnes (53 corresponding viruses):
+	intersect=set()
+	@least 80%={'CTCT'}
+	eql=set()
+	gc=set()
+	at=set()
+m4:Bacteria:Mycobacterium smegmatis (35 corresponding viruses):
+	intersect={'CCCC', 'GGGG'}
+	@least 80%={'CCCC', 'CTTA', 'GGAG', 'GGGG', 'CCCT'}
+	eql={'CCCC', 'GGGG'}
+	gc={'CCCC', 'GGGG'}
+	at=set()
+m4:Bacteria:Streptococcus pneumoniae (9 corresponding viruses):
+	intersect={'TAAT', 'CCCG', 'CCGG', 'GGCC', 'GATC', 'ACAT'}
+	@least 80%={'TAAT', 'TTAA', 'CCCG', 'CCGG', 'GGCC', 'GATC', 'ACAT'}
+	eql=set()
+	gc={'CCGG', 'GGCC', 'CCCG'}
+	at={'TAAT', 'TTAA'}
+m4:Bacteria:Vibrio cholerae (18 corresponding viruses):
+	intersect={'TATA'}
+	@least 80%={'AATT', 'TATA'}
+	eql=set()
+	gc=set()
+	at={'TATA', 'AATT'}
+m4:Bacteria:Streptococcus thermophilus (13 corresponding viruses):
+	intersect={'CCCG', 'GATC', 'ACAT'}
+	@least 80%={'CCGG', 'CCCG', 'GATC', 'ACAT'}
+	eql=set()
+	gc={'CCGG', 'CCCG'}
+	at=set()
+m4:Metazoa:Aedes aegypti (18 corresponding viruses):
+	intersect=set()
+	@least 80%={'CCCC', 'TATA'}
+	eql={'CCCC'}
+	gc={'CCCC'}
+	at={'TATA'}
+m4:Plants:Arabidopsis thaliana (5 corresponding viruses):
+	intersect={'AAAA'}
+	@least 80%={'TTTT', 'AAAA', 'GGGG'}
+	eql={'TTTT', 'AAAA', 'GGGG'}
+	gc={'GGGG'}
+	at={'TTTT', 'AAAA'}
+m4:Plants:Solanum lycopersicum (154 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Bos taurus (84 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Gallus gallus (47 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Meleagris gallopavo (18 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Ovis aries (28 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Bacteria:Escherichia coli (120 corresponding viruses):
+	intersect=set()
+	@least 80%={'TCGGA', 'CGGCC', 'TTCGG', 'TCGAG', 'ACCCC', 'TTGGG', 'CCCCC', 'CGAGG', 'GGCTC', 'CGTGT', 'GGGGT', 'TCCTA', 'GTATA', 'CCTAA', 'GGGTC', 'TCCAA', 'TTCGA', 'GAGAC', 'CGAGA', 'GTCCC', 'TTGGA'}
+	eql={'CCCCC'}
+	gc={'CCCCC', 'CGGCC'}
+	at=set()
+m5:Vertebrate:Sus scrofa (79 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Drosophila melanogaster (6 corresponding viruses):
+	intersect={'CCCCT', 'GCCCC', 'CCCCC'}
+	@least 80%={'GCCCC', 'CCCCC', 'CCCCG', 'ACCCC', 'CCCCT'}
+	eql={'CCCCC'}
+	gc={'GCCCC', 'CCCCC', 'CCCCG'}
+	at=set()
+m5:Vertebrate:Homo sapiens (339 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Mus musculus (43 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
+m5:Vertebrate:Saccharomyces cerevisiae (7 corresponding viruses):
+	intersect=set()
+	@least 80%={'nan'}
+	eql=set()
+	gc=set()
+	at=set()
+m5:Bacteria:Bacillus cereus (17 corresponding viruses):
+	intersect={'TTTTT', 'AAAAA'}
+	@least 80%={'TTTTT', 'AAAAA', 'TCGAC', 'GATCT', 'CTCGA', 'GTCAG', 'AGTCA', 'AAGTC', 'GTCAA', 'GGTCA'}
+	eql={'TTTTT', 'AAAAA'}
+	gc=set()
+	at={'TTTTT', 'AAAAA'}
+m5:Bacteria:Enterococcus faecalis (14 corresponding viruses):
+	intersect={'GATCT'}
+	@least 80%={'GATCT', 'CCGGC', 'CTCCC'}
+	eql=set()
+	gc={'CCGGC'}
+	at=set()
+m5:Bacteria:Mycobacterium abscessus (36 corresponding viruses):
+	intersect={'GGGGG', 'CCCCC'}
+	@least 80%={'GGGGG', 'CCCCA', 'GCCCC', 'CCCCC', 'CTCTG', 'CCCCT', 'GGAGG'}
+	eql={'GGGGG', 'CCCCC'}
+	gc={'GGGGG', 'GCCCC', 'CCCCC'}
+	at=set()
+m5:Bacteria:Propionibacterium acnes (53 corresponding viruses):
+	intersect=set()
+	@least 80%={'GGGGG', 'CCCCC'}
+	eql={'GGGGG', 'CCCCC'}
+	gc={'GGGGG', 'CCCCC'}
+	at=set()
+m5:Bacteria:Mycobacterium smegmatis (35 corresponding viruses):
+	intersect={'GGGGG', 'CCCCA', 'GCCCC', 'CCCCC'}
+	@least 80%={'GGGGG', 'AAAAA', 'CCCCA', 'GCCCC', 'CCCCC', 'CGGGG', 'CTTGG', 'CCCTC', 'CCCCT', 'GGAGG'}
+	eql={'GGGGG', 'CCCCC', 'AAAAA'}
+	gc={'GGGGG', 'CGGGG', 'GCCCC', 'CCCCC'}
+	at={'AAAAA'}
+m5:Bacteria:Streptococcus pneumoniae (9 corresponding viruses):
+	intersect={'TTTTT', 'GGATC', 'GATCT', 'AATTC', 'CCGGA', 'GCATC', 'CCCGG', 'TCCGG', 'ACATT', 'TGATC', 'ACCGG', 'CCCGC', 'TTAAT', 'TCCCG', 'GATCA', 'GATCG', 'CGATC', 'CCGGC', 'AGATC'}
+	@least 80%={'TTTTT', 'GGATC', 'GATCT', 'AATTC', 'CCGGA', 'GCATC', 'GTAAT', 'CCGGT', 'CCCGG', 'TCCGG', 'ACATT', 'TGATC', 'TAATT', 'TAATG', 'ACCGG', 'CCCGC', 'TTAAT', 'GTATA', 'CCCCG', 'TCCCG', 'GATCA', 'GTTAA', 'CATTA', 'GATCG', 'CGATC', 'CCGGG', 'CCGGC', 'AGATC'}
+	eql={'TTTTT'}
+	gc={'CCGGG', 'CCGGC', 'CCCGC', 'CCCCG', 'CCCGG'}
+	at={'TTTTT', 'TAATT', 'TTAAT'}
+m5:Bacteria:Vibrio cholerae (18 corresponding viruses):
+	intersect={'CCTGG'}
+	@least 80%={'GTCCC', 'CCTGG'}
+	eql=set()
+	gc=set()
+	at=set()
+m5:Bacteria:Streptococcus thermophilus (13 corresponding viruses):
+	intersect={'TTTTT', 'GATCT', 'CGATC', 'GTATA', 'AGATC', 'TCCCG', 'CCCGG'}
+	@least 80%={'ACATT', 'TTTTT', 'GATCT', 'CGATC', 'GTATA', 'CCCGA', 'AGATC', 'CGCAC', 'TCCCG', 'CCCGG'}
+	eql={'TTTTT'}
+	gc={'CCCGG'}
+	at={'TTTTT'}
+m5:Metazoa:Aedes aegypti (18 corresponding viruses):
+	intersect=set()
+	@least 80%={'AAAAA', 'CCCCC'}
+	eql={'AAAAA', 'CCCCC'}
+	gc={'CCCCC'}
+	at={'AAAAA'}
+m5:Plants:Arabidopsis thaliana (5 corresponding viruses):
+	intersect={'TTTTT', 'AAAAA'}
+	@least 80%={'TTTTT', 'AAAAA', 'GGGGG'}
+	eql={'TTTTT', 'AAAAA', 'GGGGG'}
+	gc={'GGGGG'}
+	at={'TTTTT', 'AAAAA'}
+m5:Plants:Solanum lycopersicum (154 corresponding viruses):
+	intersect=set()
+	@least 80%=set()
+	eql=set()
+	gc=set()
+	at=set()
