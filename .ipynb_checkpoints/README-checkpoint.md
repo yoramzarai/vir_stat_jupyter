@@ -8,4 +8,8 @@
 
 ## Notebooks
 1. UR_cluster.ipynb
-2. 
+2. logos_UR_virus_types.ipynb
+3. UR_virus_logo.ipynb
+4. UR_host_logo.ipynb
+5. rebase_process.ipynb
+6. URs_in_Jaspar.ipynb
