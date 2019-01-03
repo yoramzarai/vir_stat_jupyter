@@ -1,0 +1,11 @@
+['GGCT', 'GGCC', 'CGCG', 'GCTA', 'GCTT', 'AGCC']
+['AATT', 'AAAT', 'AAAA', 'TTTT']
+['GTAC', 'GTCC']
+['CCGG']
+
+
+['AATT', 'AAAT', 'AAAA', 'GATC']
+['GCCA', 'CCCA', 'GCGC', 'GTCT']
+['TCAG', 'CCAG']
+['TTTC', 'TTTT']
+['CGCG']
