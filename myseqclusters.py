@@ -1,5 +1,6 @@
 import itertools as itr
 import csv
+import re
 
 def NT_base_seq_score(two_seqs, eql=+5, neql=-4):
     '''Returns the score of the distance between two sequences. Default scorings are nuc44-based.'''
@@ -27,5 +28,27 @@ def parse_starcode_cls_out(file):
     clusters = {}
     for info in clusts: clusters[info[0]] = info[-1].split(',')
     return clusters
-    
 
+def parse_meshclsut_cls_out(file):
+    '''This function parses the output of the tool Meshclust that 
+    is used to cluster nucleotide sequences. The returned dictionary contains
+    a centroid as a key and a list of the correponding sequences in that
+    cluster as a value.'''
+    clusters = {}
+    with open(file, 'rt') as fin:
+        for line in fin:
+            vals = line.split(' ')
+            if vals[0]=='>Cluster': # a new cluster
+                clst_num = int(vals[-1][0])
+                if clst_num > 0: # save the previous cluster
+                    clusters[centroid]=clst_seqs
+                clst_seqs = []
+                centroid = None
+            else:
+                seq = re.search('(\w+)', vals[2]).group(0)
+                clst_seqs.append(seq)
+                if(vals[-1][0]=='*'):
+                    centroid=seq
+        # save the last cluster
+        clusters[centroid]=clst_seqs
+    return clusters
