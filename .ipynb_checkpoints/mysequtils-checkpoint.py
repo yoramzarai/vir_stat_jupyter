@@ -19,6 +19,9 @@ def seq2plain_text_file(seq, fname):
     each sequence is written in a separate line.'''
     with open(fname, 'wt') as fout: print(*seq, sep='\n', file=fout)
 
+def create_fasta_file(fname, seq, labels=False):
+    '''This function creates a FASTA file.'''
+    with open(fname, 'wt') as fout: print(seq_create_fasta(seq,labels), file=fout)
 
 def my_fasta_read(fname):
     '''Reads fasta file. 
