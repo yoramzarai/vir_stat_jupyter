@@ -1,6 +1,6 @@
 # Stats file
 
-## Python scripts
+## Python scripts/functions
 1. translation.py
 2. UR_host_funcs.py
 3. myseq_logo.py
@@ -16,3 +16,4 @@
 5. rebase_process.ipynb
 6. URs_in_Jaspar.ipynb
 7. UR_clst_logos.ipynb - clustering of virus URs. Computes the clusters and prints the logos to png files. Supported clustering tools are Starcode and MeshClust.
+8. clst_all_URs.ipynb - clusters the top URs of a specific virus type.
