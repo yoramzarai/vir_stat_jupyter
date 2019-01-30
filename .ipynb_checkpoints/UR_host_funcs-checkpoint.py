@@ -3,6 +3,7 @@ import pandas as pd
 import re
 from functools import reduce
 from collections import Counter
+import pald_funcs as pldfunc
 
 def intersect_series_values(df, func):
     '''Returns the intersection of lists in a Series input. In the Series
@@ -39,6 +40,7 @@ def cluster_NTs(ur, mlen):
     4. 'noneql': ur \ {'eql'}, 
     5. 'nongc': ur \ {'gc'},
     6. 'nonat': ur \ {'at'}.
+    7. 'pald': Palindromic sequences (i.e. x==reverse(complement(x)))
     Input 'ur' must be a set.'''
     clst_nt = {}
     clst_nt['all'] = ur
@@ -48,6 +50,7 @@ def cluster_NTs(ur, mlen):
     clst_nt['neql'] = ur - clst_nt['eql']  # all except URs with equal NTs
     clst_nt['ngc'] = ur - clst_nt['gc']    # all except URs with only G and/or C
     clst_nt['nat'] = ur - clst_nt['at']    # all except URs with only A and/or T
+    clst_nt['pald'] = {s for s, f in zip(ur, pldfunc.is_palindromic(list(ur))) if f}  # Palindromic URs (e.g. GATC)
     return clst_nt
 
 nhdb = {  # simpler names for host DB 
