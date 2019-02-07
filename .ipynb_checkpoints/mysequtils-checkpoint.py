@@ -35,3 +35,19 @@ def my_fasta_read(fname):
         seq.append(str(record.seq))
         iD.append(record.id)
     return seq, iD, desc
+
+def get_seq_count(seqs):
+    '''This function returns a dictionary, where the keys are the (unique)
+    sequences and the values are the number of occurances. Input seqs is a list
+    of strings.'''
+    from collections import defaultdict
+    d = defaultdict(int)
+    for s in seqs: d[s] += 1
+    #sorted(d, key=d.get, reverse=True) # this returns a sorted list in descending order
+    return d 
+
+def my_filter_df(df, field, val, cols=''):
+    '''Given a Pandas dataframe, this function returns a sub-set dataframe where the value of
+    the column "field" is equal to "val". "cols" (if give) is a list of column fields (strings) to return
+    (otherwise, all columns are returned).'''
+    return df.loc[df[field]==val, cols] if cols else df.loc[df[field]==val, :]
